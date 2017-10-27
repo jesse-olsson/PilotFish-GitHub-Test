@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Route xmlns="http://www.pilotfishtechnology.com/eipr/RouteSpec" CreatedBy="jolsson@smcpartners.com" LastModificationTime="2017-10-27T13:43:01-04:00" ModifiedBy="jolsson@smcpartners.com" RouteSpecificPooling="true" debugTraceCurrentSecondsToKeepFiles="-1" debugTraceMaxFiles="-1" debuggingTrace="false" debuggingTraceExpression="" debuggingTracePath="" transactionTimeToLive="300000">
+  <RouteMetadata />
+  <RoutingModule class="com.pilotfish.eip.modules.internal.NullRoutingModule" />
+  <Source icon="" name="System Unnamed">
+    <FormatProfile name="Relay (System Format)" />
+  </Source>
+  <Target icon="" name="System Unnamed">
+    <FormatProfile name="Relay (System Format)" />
+  </Target>
+</Route>
+
